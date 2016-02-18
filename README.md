@@ -1,6 +1,7 @@
-# Marco
+# Whereabouts
 
-More time with friends, less time planning. Marco polo.
+Location-based social media app for posting events either publically or to friends.
+More time with friends, less time planning. 
 
 ## Team
 
@@ -57,7 +58,6 @@ mongodb install
 ### Roadmap
 
 View the project roadmap [here](https://github.com/laudatory-flannel/laudatory-flannel/issues)
-
 
 ## Contributing
 
