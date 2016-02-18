@@ -1,6 +1,6 @@
 # Whereabouts
 
-Location-based social media app for posting events either publically or to friends.
+Location-based social media app for posting events either publicly or to friends.
 More time with friends, less time planning. 
 
 ## Team
